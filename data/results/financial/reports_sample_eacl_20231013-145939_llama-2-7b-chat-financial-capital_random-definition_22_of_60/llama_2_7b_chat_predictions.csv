@@ -1,0 +1,541 @@
+prediction,reference
+Natural,Manufactured
+Intellectual,Intellectual
+Natural,Natural
+Social and relationship,Financial
+Intellectual,Intellectual
+Human,Human
+Financial,Human
+Manufactured,Manufactured
+Natural,Manufactured
+Natural,Manufactured
+Financial,Financial
+Manufactured,Manufactured
+Natural,Natural
+Manufactured,Manufactured
+Human,Human
+Financial,Financial
+Human,Human
+Financial,Financial
+Manufactured,Social and relationship
+Natural,Natural
+Intellectual,Intellectual
+Natural,Natural
+Natural,Social and relationship
+Financial,Financial
+Social and relationship,Human
+Natural,Intellectual
+Manufactured,Social and relationship
+Financial,Social and relationship
+Manufactured,Intellectual
+Financial,Social and relationship
+Financial,Social and relationship
+Financial,Financial
+Manufactured,Human
+Natural,Natural
+Manufactured,Manufactured
+Manufactured,Manufactured
+Intellectual,Intellectual
+Manufactured,Intellectual
+Natural,Social and relationship
+Financial,Human
+Natural,Social and relationship
+Natural,Natural
+Social and relationship,Human
+Manufactured,Manufactured
+Social and relationship,Social and relationship
+Intellectual,Intellectual
+Natural,Social and relationship
+Manufactured,Intellectual
+Manufactured,Manufactured
+Intellectual,Intellectual
+Human,Human
+Natural,Intellectual
+Intellectual,Human
+Natural,Financial
+Natural,Intellectual
+Financial,Social and relationship
+Natural,Manufactured
+Natural,Social and relationship
+Financial,Manufactured
+Financial,Financial
+Natural,Intellectual
+Natural,Natural
+Financial,Financial
+Intellectual,Intellectual
+Natural,Natural
+Social and relationship,Social and relationship
+Natural,Manufactured
+Manufactured,Intellectual
+Social and relationship,Social and relationship
+Financial,Financial
+Financial,Financial
+Natural,Social and relationship
+Manufactured,Manufactured
+Manufactured,Intellectual
+Human,Human
+Natural,Natural
+Natural,Natural
+Manufactured,Human
+Natural,Natural
+Manufactured,Manufactured
+Natural,Manufactured
+Manufactured,Social and relationship
+Financial,Manufactured
+Financial,Manufactured
+Financial,Financial
+Financial,Social and relationship
+Intellectual,Manufactured
+Manufactured,Intellectual
+Natural,Manufactured
+Manufactured,Manufactured
+Natural,Natural
+Financial,Social and relationship
+Financial,Human
+Financial,Financial
+Natural,Manufactured
+Manufactured,Intellectual
+Manufactured,Intellectual
+Social and relationship,Social and relationship
+Intellectual,Intellectual
+Financial,Social and relationship
+Natural,Natural
+Financial,Natural
+Natural,Social and relationship
+Natural,Financial
+Natural,Natural
+Manufactured,Intellectual
+Social and relationship,Social and relationship
+Natural,Natural
+Financial,Financial
+Financial,Human
+Human,Human
+Natural,Intellectual
+Financial,Human
+Intellectual,Intellectual
+Natural,Natural
+Manufactured,Intellectual
+Manufactured,Human
+Manufactured,Intellectual
+Manufactured,Manufactured
+Manufactured,Human
+Natural,Manufactured
+Manufactured,Human
+Financial,Financial
+Financial,Financial
+Natural,Natural
+Manufactured,Manufactured
+Natural,Manufactured
+Natural,Manufactured
+Natural,Intellectual
+Financial,Financial
+Manufactured,Intellectual
+Financial,Social and relationship
+Human,Human
+Financial,Financial
+Financial,Financial
+Financial,Human
+Manufactured,Social and relationship
+Manufactured,Social and relationship
+Natural,Natural
+Manufactured,Manufactured
+Natural,Social and relationship
+Financial,Financial
+Natural,Manufactured
+Social and relationship,Financial
+Financial,Financial
+Manufactured,Intellectual
+Financial,Social and relationship
+Financial,Financial
+Intellectual,Intellectual
+Natural,Natural
+Natural,Social and relationship
+Manufactured,Intellectual
+Natural,Natural
+Natural,Natural
+Natural,Financial
+Natural,Manufactured
+Financial,Financial
+Human,Human
+Financial,Financial
+Natural,Manufactured
+Natural,Manufactured
+Human,Human
+Financial,Financial
+Social and relationship,Intellectual
+Manufactured,Human
+Intellectual,Intellectual
+Social and relationship,Social and relationship
+Social and relationship,Intellectual
+Financial,Social and relationship
+Manufactured,Manufactured
+Financial,Social and relationship
+Intellectual,Intellectual
+Human,Human
+Manufactured,Intellectual
+Manufactured,Intellectual
+Financial,Financial
+Human,Human
+Manufactured,Social and relationship
+Social and relationship,Social and relationship
+Human,Human
+Human,Human
+Social and relationship,Financial
+"Social and relationship: Monetary resources, assets, liabilities, revenues, expenses, or any other financial information related to the company's operations, investments, and financial performance.",Social and relationship
+Financial,Financial
+Natural,Natural
+Financial,Natural
+Manufactured,Human
+Financial,Social and relationship
+Natural,Natural
+Manufactured,Intellectual
+Financial,Human
+Human,Human
+Financial,Social and relationship
+Natural,Natural
+Financial,Financial
+Manufactured,Manufactured
+Financial,Financial
+Natural,Social and relationship
+Financial,Financial
+Intellectual,Human
+Manufactured,Financial
+Financial,Social and relationship
+Natural,Natural
+Manufactured,Intellectual
+Financial,Financial
+Intellectual,Intellectual
+Financial,Human
+Social and relationship,Social and relationship
+Social and relationship,Human
+Social and relationship,Human
+Financial,Manufactured
+Financial,Intellectual
+Natural,Manufactured
+Social and relationship,Intellectual
+Natural,Natural
+"Social and relationship: The text deals with legislation related to the company's operations and financial performance, such as restrictions on the sale of energy drinks, caffeine content limits, and requirements for certain governmental programs.",Intellectual
+Manufactured,Intellectual
+Intellectual,Intellectual
+Financial,Financial
+Human,Social and relationship
+Natural,Human
+Natural,Natural
+Natural,Natural
+Social and relationship,Social and relationship
+Manufactured,Social and relationship
+Natural,Natural
+Intellectual,Intellectual
+Manufactured,Natural
+Financial,Human
+Natural,Manufactured
+Social and relationship,Financial
+Natural,Manufactured
+Financial,Human
+Financial,Manufactured
+Financial,Natural
+Manufactured,Intellectual
+Natural,Natural
+Manufactured,Intellectual
+Manufactured,Manufactured
+Manufactured,Financial
+Natural,Manufactured
+Natural,Natural
+Natural,Natural
+Natural,Manufactured
+Manufactured,Social and relationship
+Manufactured,Social and relationship
+Social and relationship,Manufactured
+Financial,Natural
+Social and relationship,Human
+Natural,Natural
+Financial,Human
+Social and relationship,Social and relationship
+Natural,Natural
+Financial,Financial
+Human,Human
+Intellectual,Intellectual
+Manufactured,Intellectual
+Manufactured,Human
+Financial,Natural
+Intellectual,Intellectual
+Social and relationship,Natural
+Human,Human
+Manufactured,Social and relationship
+Natural,Natural
+Manufactured,Human
+Natural,Manufactured
+Human,Human
+Natural,Manufactured
+Financial,Financial
+Natural,Manufactured
+Social and relationship,Intellectual
+Financial,Financial
+Financial,Human
+Natural,Manufactured
+Natural,Financial
+Social and relationship,Human
+Natural,Natural
+Natural,Manufactured
+Natural,Natural
+Social and relationship,Financial
+Human,Human
+Social and relationship,Human
+Human,Human
+Social and relationship,Social and relationship
+Financial,Financial
+Manufactured,Manufactured
+Human,Social and relationship
+Financial,Manufactured
+Manufactured,Natural
+Financial,Financial
+Natural,Financial
+Financial,Financial
+Manufactured,Intellectual
+Manufactured,Manufactured
+Intellectual,Intellectual
+Natural,Human
+Financial,Financial
+Manufactured,Human
+Manufactured,Intellectual
+Financial,Social and relationship
+Manufactured,Manufactured
+Natural,Natural
+Natural,Human
+Financial,Social and relationship
+Financial,Social and relationship
+Financial,Social and relationship
+Manufactured,Manufactured
+Human,Human
+Financial,Human
+Manufactured,Intellectual
+Manufactured,Natural
+Natural,Social and relationship
+Manufactured,Social and relationship
+Natural,Natural
+Manufactured,Intellectual
+Intellectual,Intellectual
+Social and relationship,Social and relationship
+Financial,Financial
+Financial,Human
+Human,Human
+Financial,Human
+Financial,Human
+Manufactured,Manufactured
+Manufactured,Intellectual
+Manufactured,Manufactured
+Human,Human
+Manufactured,Social and relationship
+Financial,Social and relationship
+Financial,Financial
+Natural,Manufactured
+Natural,Natural
+Natural,Natural
+Social and relationship,Financial
+Human,Human
+Natural,Intellectual
+Natural,Intellectual
+Financial,Human
+Social and relationship,Human
+Natural,Natural
+Manufactured,Human
+Financial,Financial
+Financial,Manufactured
+Social and relationship,Social and relationship
+Natural,Intellectual
+Social and relationship,Financial
+Manufactured,Natural
+Natural,Natural
+Natural,Intellectual
+Manufactured,Manufactured
+Manufactured,Intellectual
+Natural,Natural
+Natural,Social and relationship
+Social and relationship,Financial
+Financial,Financial
+Social and relationship,Social and relationship
+Financial,Manufactured
+Manufactured,Intellectual
+Human,Human
+Natural,Natural
+Manufactured,Manufactured
+Financial,Financial
+Manufactured,Intellectual
+Financial,Human
+Human,Human
+Financial,Financial
+Financial,Financial
+Natural,Natural
+Natural,Financial
+Manufactured,Manufactured
+Natural,Natural
+Financial,Financial
+Natural,Natural
+Natural,Social and relationship
+Natural,Manufactured
+Social and relationship,Manufactured
+Human,Human
+"Social and relationship: The text pertains to monetary resources (slotting, shelf space allowances, and other fees) given directly to retailers, which is a financial aspect of the company's operations.",Social and relationship
+Natural,Natural
+Natural,Natural
+Natural,Natural
+Social and relationship,Human
+Natural,Manufactured
+Natural,Intellectual
+Social and relationship,Human
+Financial,Financial
+Human,Human
+Financial,Financial
+Social and relationship,Financial
+Manufactured,Manufactured
+Financial,Social and relationship
+Intellectual,Intellectual
+Human,Human
+Manufactured,Intellectual
+Intellectual,Intellectual
+Manufactured,Intellectual
+Intellectual,Intellectual
+Manufactured,Human
+Manufactured,Social and relationship
+Manufactured,Human
+Manufactured,Natural
+Natural,Natural
+Social and relationship,Financial
+Manufactured,Social and relationship
+Financial,Intellectual
+Social and relationship,Social and relationship
+Social and relationship,Social and relationship
+Natural,Natural
+Natural,Manufactured
+Natural,Natural
+Natural,Natural
+Social and relationship,Human
+Manufactured,Manufactured
+Natural,Intellectual
+Financial,Intellectual
+Natural,Natural
+Manufactured,Natural
+Natural,Manufactured
+Natural,Natural
+Natural,Natural
+Financial,Social and relationship
+Manufactured,Human
+Financial,Human
+Manufactured,Social and relationship
+Natural,Natural
+Natural,Manufactured
+Natural,Manufactured
+Social and relationship,Intellectual
+Intellectual,Intellectual
+Financial,Financial
+Manufactured,Intellectual
+Manufactured,Natural
+Social and relationship,Social and relationship
+Social and relationship,Social and relationship
+Natural,Human
+Manufactured,Manufactured
+Financial,Social and relationship
+Natural,Intellectual
+Social and relationship,Financial
+Natural,Natural
+Manufactured,Intellectual
+Intellectual,Natural
+Human,Human
+Financial,Human
+Manufactured,Intellectual
+Natural,Natural
+Financial,Financial
+Intellectual,Intellectual
+Social and relationship,Financial
+Natural,Manufactured
+Social and relationship,Manufactured
+Manufactured,Manufactured
+Social and relationship,Financial
+Natural,Natural
+Manufactured,Manufactured
+Intellectual,Social and relationship
+Manufactured,Intellectual
+Social and relationship,Financial
+Manufactured,Social and relationship
+Financial,Social and relationship
+Natural,Manufactured
+Financial,Manufactured
+Natural,Manufactured
+Natural,Manufactured
+Natural,Manufactured
+Manufactured,Financial
+Human,Human
+Natural,Natural
+Financial,Financial
+Intellectual,Intellectual
+Natural,Natural
+Natural,Manufactured
+Social and relationship,Human
+Financial,Financial
+Financial,Financial
+Social and relationship,Human
+Natural,Natural
+Financial,Human
+Natural,Manufactured
+Social and relationship,Human
+Natural,Natural
+Natural,Financial
+Financial,Social and relationship
+Financial,Financial
+Intellectual,Intellectual
+Financial,Social and relationship
+Natural,Manufactured
+Natural,Natural
+Natural,Manufactured
+Financial,Social and relationship
+Intellectual,Intellectual
+Manufactured,Financial
+Manufactured,Human
+Social and relationship,Social and relationship
+Financial,Manufactured
+Financial,Social and relationship
+Intellectual,Intellectual
+Social and relationship,Human
+Natural,Social and relationship
+Natural,Natural
+Natural,Natural
+Human,Human
+Financial,Financial
+Manufactured,Social and relationship
+Social and relationship,Financial
+Financial,Social and relationship
+Natural,Natural
+Manufactured,Social and relationship
+Natural,Social and relationship
+Manufactured,Natural
+Financial,Financial
+Human,Social and relationship
+Social and relationship,Financial
+Social and relationship,Financial
+Social and relationship,Manufactured
+Financial,Natural
+Social and relationship,Financial
+Natural,Financial
+Natural,Social and relationship
+Natural,Natural
+Manufactured,Financial
+Natural,Natural
+Intellectual,Intellectual
+Intellectual,Intellectual
+Manufactured,Manufactured
+Financial,Financial
+Natural,Human
+Manufactured,Intellectual
+Manufactured,Social and relationship
+Social and relationship,Financial
+Natural,Financial
+Social and relationship,Social and relationship
+Social and relationship,Social and relationship
+Natural,Manufactured
+Financial,Financial
+Manufactured,Manufactured
+Natural,Manufactured
+Financial,Natural
+Natural,Natural
+Natural,Human
+Manufactured,Intellectual

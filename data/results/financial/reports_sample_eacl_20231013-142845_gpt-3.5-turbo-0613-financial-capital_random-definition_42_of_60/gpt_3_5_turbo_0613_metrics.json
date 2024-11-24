@@ -1,0 +1,129 @@
+{
+  "null": {
+    "guideline_match_Financial_Financial": {
+      "low": 0.31297709923664124,
+      "high": 0.5267175572519084,
+      "mean": 0.4198473282442748
+    },
+    "guideline_match_Human_Social and relationship": {
+      "low": 0.5263157894736842,
+      "high": 0.9473684210526315,
+      "mean": 0.7894736842105263
+    },
+    "guideline_match_Intellectual_Intellectual": {
+      "low": 0.42857142857142855,
+      "high": 0.8095238095238095,
+      "mean": 0.6507936507936508
+    },
+    "guideline_match_Manufactured_Human": {
+      "low": -0.11864406779661017,
+      "high": -0.025423728813559324,
+      "mean": -0.059322033898305086
+    },
+    "guideline_match_Natural_Natural": {
+      "low": -0.3654947945708138,
+      "high": 0.8181818181818182,
+      "mean": 0.2727272727272727
+    },
+    "guideline_match_Social and relationship_Manufactured": {
+      "low": 0.5777777777777777,
+      "high": 0.8222222222222222,
+      "mean": 0.7111111111111111
+    },
+    "guideline_match": {
+      "low": 0.3221601489757914,
+      "high": 0.45623836126629425,
+      "mean": 0.3891992551210428
+    }
+  },
+  "classification_metrics": {
+    "source_stats": {
+      "sentences_per_sample": {
+        "low": NaN,
+        "high": NaN,
+        "mean": 1.0
+      },
+      "tokens_per_sentence": {
+        "low": 29.846296296296295,
+        "high": 32.78245265066384,
+        "mean": 31.214814814814815
+      },
+      "tokens_per_sample": {
+        "low": 29.846296296296295,
+        "high": 32.78245265066384,
+        "mean": 31.214814814814815
+      },
+      "fkgl_readability": {
+        "low": 14.885194177106461,
+        "high": 15.993435852791453,
+        "mean": 15.43277777777778
+      }
+    },
+    "prediction_stats": {
+      "sentences_per_sample": {
+        "low": NaN,
+        "high": NaN,
+        "mean": 1.0
+      },
+      "tokens_per_sentence": {
+        "low": 1.1814814814814816,
+        "high": 1.4704820842002206,
+        "mean": 1.2555555555555555
+      },
+      "tokens_per_sample": {
+        "low": 1.1814814814814816,
+        "high": 1.4704820842002206,
+        "mean": 1.2555555555555555
+      },
+      "fkgl_readability": {
+        "low": 26.078597837766726,
+        "high": 27.562564011205737,
+        "mean": 26.814814814814813
+      }
+    },
+    "reference_stats": {
+      "sentences_per_sample": {
+        "low": NaN,
+        "high": NaN,
+        "mean": 1.0
+      },
+      "tokens_per_sentence": {
+        "low": 1.2740740740740741,
+        "high": 1.4,
+        "mean": 1.3333333333333333
+      },
+      "tokens_per_sample": {
+        "low": 1.2740740740740741,
+        "high": 1.4,
+        "mean": 1.3333333333333333
+      },
+      "fkgl_readability": {
+        "low": 21.903709993080817,
+        "high": 23.873587714875907,
+        "mean": 22.883333333333333
+      }
+    },
+    "length_diff": {
+      "sentences_diff": {
+        "low": NaN,
+        "high": NaN,
+        "mean": 0.0
+      },
+      "tokens_diff": {
+        "low": 0.46296296296296297,
+        "high": 0.7518518518518519,
+        "mean": 0.5518518518518518
+      }
+    },
+    "exact_match": {
+      "low": 0.32407407407407407,
+      "high": 0.40555555555555556,
+      "mean": 0.362962962962963
+    },
+    "partial_match": {
+      "low": 0.32407407407407407,
+      "high": 0.40555555555555556,
+      "mean": 0.362962962962963
+    }
+  }
+}
